@@ -71,9 +71,16 @@ Beyond optimization, this project integrates predictive analytics for workforce 
 
 ---
 
+### Weekly Schedule
+![Workforce Scheduling](./assets/weeklySchedule.png)
+
+### Daily Schedule
+![Workforce Scheduling](./assets/dailySchedule.png)
+
 ## 🚀 How to Run
 
 ### 1. Clone the repository
 ```bash
 git clone git@github.com:RabeloIcaro/DollarTreeOperationsAndPredictiveModels.git
 cd DollarTreeOperationsAndPredictiveModels
+
