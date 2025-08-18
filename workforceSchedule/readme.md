@@ -3,7 +3,6 @@
 This project implements a **workforce scheduling optimization model** built with [Google OR-Tools](https://developers.google.com/optimization), using a **Mixed Integer Linear Programming (MILP)** framework.  
 
 The goal is to **maximize labor efficiency** while ensuring compliance with **legal, social, and operational constraints**.  
-Additionally, the project explores **predictive analyses**, such as employee turnover, to support data-driven decision-making for Dollar Tree operations.  
 
 ---
 
