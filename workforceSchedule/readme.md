@@ -14,8 +14,6 @@ The goal is to **maximize labor efficiency** while ensuring compliance with **le
 
 ---
 
----
-
 ## 📌 Features
 - Optimized workforce scheduling for **managers, cashiers, and stockers** across a 7-day planning horizon.
 - Incorporates **legal and social constraints** (max shifts per employee, weekend restrictions, unavailable days).
@@ -40,7 +38,7 @@ The goal is to **maximize labor efficiency** while ensuring compliance with **le
 - **Managers**
   - One manager per opening and closing shift per day.  
   - Maximum **5 shifts per week** per manager.  
-  - Store manager (ID `0`) cannot work weekends, must work **at least one weekday**.  
+  - Store manager (ID `0`) cannot work weekends.  
   - No double shifts per day.  
 
 - **Cashiers**
