@@ -60,13 +60,6 @@ The goal is to **maximize labor efficiency** while ensuring compliance with **le
 
 ✅ The solution ensures **balanced labor distribution**, **legal compliance**, and **operational reliability**.  
 
----
-
-## 📊 Predictive Analysis
-Beyond optimization, this project integrates predictive analytics for workforce planning:
-- **Turnover prediction models** to assess retention risks.  
-- **Scenario-based forecasting** for labor needs.  
-- Insights to support **data-driven HR strategies**.  
 
 ---
 
