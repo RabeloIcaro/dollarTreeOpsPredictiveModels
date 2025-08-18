@@ -1,4 +1,4 @@
-# Dollar Tree Workforce Operations & Predictive Models
+# Dollar Tree Workforce Operations
 
 This project implements a **workforce scheduling optimization model** built with [Google OR-Tools](https://developers.google.com/optimization), using a **Mixed Integer Linear Programming (MILP)** framework.  
 
