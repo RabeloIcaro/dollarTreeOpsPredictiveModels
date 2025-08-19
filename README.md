@@ -24,7 +24,7 @@ The scheduling model was built with **Google OR-Tools** to optimize shifts for m
 
 ## Turnover Prediction Model
 
-The turnover model was developed using **Random Forest** on synthetic HR data.  
+The turnover model was developed using different methods such as **Random Forest** on synthetic HR data.  
 It predicts which employees are most likely to leave the company, enabling **proactive HR actions**.
 
 ### Variables:
