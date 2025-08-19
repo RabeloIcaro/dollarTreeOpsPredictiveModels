@@ -6,15 +6,16 @@ The goal is to **maximize labor efficiency** while ensuring compliance with **le
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
+<a>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="ortools" src="https://img.shields.io/badge/Google%20OR--Tools-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="center" alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-
+</a>
 ---
 
-## 📌 Features
+## Features
 - Optimized workforce scheduling for **managers, cashiers, and stockers** across a 7-day planning horizon.
 - Incorporates **legal and social constraints** (max shifts per employee, weekend restrictions, unavailable days).
 - Enforces **fairness in workload distribution** using auxiliary integer variables.
@@ -22,7 +23,7 @@ The goal is to **maximize labor efficiency** while ensuring compliance with **le
 
 ---
 
-## ⚙️ Model Formulation
+## Model Formulation
 
 ### **Decision Variables**
 - `m[i, d, s]`: Binary. Equals `1` if **manager i** works on **day d** and **shift s** (`0 = opening, 1 = closing`).
@@ -66,7 +67,7 @@ The goal is to **maximize labor efficiency** while ensuring compliance with **le
 - **Minimize** workload imbalance.  
 - Achieve a **hybrid objective** of **efficiency and equity**.  
 
-✅ The solution ensures **balanced labor distribution**, **legal compliance**, and **operational reliability**.  
+The solution ensures **balanced labor distribution**, **legal compliance**, and **operational reliability**.  
 
 
 ---
@@ -77,10 +78,4 @@ The goal is to **maximize labor efficiency** while ensuring compliance with **le
 ### Daily Schedule
 ![Workforce Scheduling](./assets/dailySchedule.png)
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-```bash
-git clone git@github.com:RabeloIcaro/DollarTreeOperationsAndPredictiveModels.git
-cd DollarTreeOperationsAndPredictiveModels
 
