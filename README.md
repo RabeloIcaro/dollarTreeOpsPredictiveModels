@@ -9,11 +9,11 @@ The goal is to provide **data-driven decision support** for Dollar Tree’s oper
 
 ---
 
-## 📊 Workforce Scheduling Optimization
+## Workforce Scheduling Optimization
 
 The scheduling model was built with **Google OR-Tools** to optimize shifts for managers, cashiers, and stockers while respecting operational and fairness constraints.  
 
-### ✅ Key Features:
+### Key Features:
 - Store manager always works **Monday to Friday**.  
 - **Cashier coverage** guaranteed for every shift.  
 - Balanced workload distribution among employees.  
@@ -22,12 +22,12 @@ The scheduling model was built with **Google OR-Tools** to optimize shifts for m
 
 ---
 
-## 🤖 Turnover Prediction Model
+## Turnover Prediction Model
 
 The turnover model was developed using **Random Forest** on synthetic HR data.  
 It predicts which employees are most likely to leave the company, enabling **proactive HR actions**.
 
-### 🔑 Variables:
+### Variables:
 - Length of tenure (months)  
 - Average weekly hours  
 - Job satisfaction score  
@@ -36,7 +36,7 @@ It predicts which employees are most likely to leave the company, enabling **pro
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - **Scheduling Model:** Optimize labor allocation while ensuring fairness and coverage.  
 - **Turnover Model:** Anticipate attrition risks with a balance of precision and recall.  
@@ -45,7 +45,7 @@ Together, these projects demonstrate the integration of **Prescriptive Analytics
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
