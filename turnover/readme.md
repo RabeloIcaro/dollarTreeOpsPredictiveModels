@@ -1,11 +1,11 @@
-# 🏢 Employee Turnover Prediction
+# Employee Turnover Prediction
 
 This project develops a **predictive model for employee turnover** using machine learning techniques.  
 The pipeline handles data preprocessing, feature encoding, model training, and evaluation with multiple classifiers to identify employees most at risk of leaving.  
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="center" alt="seaborn" src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=seaborn&logoColor=white" />
@@ -13,7 +13,7 @@ The pipeline handles data preprocessing, feature encoding, model training, and e
 
 ---
 
-## 📂 Project Workflow
+## Project Workflow
 
 1. **Data Loading & Cleaning**
    - Read dataset (`turnover.csv`)
@@ -43,18 +43,18 @@ The pipeline handles data preprocessing, feature encoding, model training, and e
 
 ---
 
-## 📊 Results
+## Results
 
 The following table shows the comparison of models based on performance metrics:
 ![Workforce Scheduling](./assets/modelsComparison.png)
 
-> 🔎 Random Forest achieved the **best balanced performance** across metrics.  
+> Random Forest achieved the **best balanced performance** across metrics.  
 > SVC with polynomial kernel had very high recall but sacrificed precision.  
 > Decision Trees provided interpretability but lower overall accuracy.  
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The goal is to:
 - **Identify employees at risk of turnover** with high accuracy  
